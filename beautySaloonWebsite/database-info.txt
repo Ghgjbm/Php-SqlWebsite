@@ -1,0 +1,10 @@
+1. Beauty 
+database name: bpmsdb
+
+admin username: admin
+password: 123
+
+--------OR--------
+ 
+admin username: admin
+password: Test@123
